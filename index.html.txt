@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khôn Nhà Dại Chợ!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Tứ Bất Tử - Mỹ Đức B</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Giới Thiệu Chung</a></li>
+                <li><a href="#members">Thành Viên</a></li>
+                <li><a href="#hobbies">Những Kỉ Niệm Đẹp</a></li>
+                <li><a href="#dream">Ước Mơ Của Chúng Tôi</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about" class="content">
+        <h2>Giới Thiệu Chung</h2>
+        <img src="images/group.jpg" alt="Ảnh nhóm bạn">
+        <p>Chúng tớ là một nhóm "bè:" chơi với nhau được hẳn 2 năm. Tuy thời gian ngắn nhưng đã có rất nhiều kỉ niệm, những khoảnh khắc đẹp gắn bó bên nhau.</p>
+    </section>
+
+    <section id="members" class="content">
+        <h2>Thành Viên </h2>
+        <div class="member">
+            <img src="images/member1.jpg" alt="Quoc Khanh">
+            <p><strong>Quốc Khánh</strong> - Đẹp troai nhất nhóm, tốt bụng, tinh tế, hiền lành.</p>
+        </div>
+        <div class="member">
+            <img src="images/member2.jpg" alt="Tran Manh">
+            <p><strong>Trần Mạnh</strong> - thích đá bóng, hát hay, thích được làm ca sĩ Hàn Quốc.</p>
+        </div>
+        <div class="member">
+            <img src="images/member3.jpg" alt="Huu Hoan">
+            <p><strong>Hữu Hoàn</strong> -Hiền lành, chững chạc, nhiều gái theo.</p>
+        </div>
+        <div class="member">
+            <img src="images/member4.jpg" alt="Minh Hai">
+            <p><strong>Minh Hải</strong> - Fan MU, lạnh lùng, học giỏi.</p>
+        </div>
+    </section>
+
+    <section id="hobbies" class="content">
+        <h2>Những kỉ niệm đẹp</h2>
+        <img src="images/hobbies.jpg" alt="Kỉ Niệm">
+        <p>Chúng tôi gắn bó với nhau những năm tháng học cấp 3, với nhiều kỉ niệm đẹp, có những chuyến đi chơi, ăn uống, liên hoan, những ngày lễ rất đáng nhớ.Cùng với đó là những giây phút học hành chăm chỉ mỗi ngày</p>
+    </section>
+
+    <section id="dream" class="content">
+        <h2>Ước Mơ</h2>
+        <img src="images/dream.jpg" alt="Future">
+        <p>Ước mơ của chúng mình là sau kì thi tốt nghiệp THPT sẽ cùng nhau có một chuyến du lịch thật ý nghĩa.</p>
+    </section>
+
+    <footer>
+        <p>&copy; Quoc Khanh A3-K50-MĐB | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
